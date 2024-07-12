@@ -99,3 +99,11 @@ Al iniciar la aplicación, se mostrará el menú principal con las opciones disp
    - Ingresa `0` y presiona Enter.
    - La aplicación se cerrará.
 
+## Imagenes de funcionamiento
+![Imagen1](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen1.png)
+![Imagen2](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen2.png)
+![Imagen3](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen3.png)
+![Imagen4](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen4.png)
+![Imagen5](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen5.png)
+![Imagen6](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen6.png)
+![Imagen7](https://github.com/CristhianSZ/Literatura-Challenge-Latam/blob/main/imagenes/imagen7.png)
